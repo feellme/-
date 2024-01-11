@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Медицинское Обслуживание</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        h2 {
+            color: #4CAF50;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Медицинское Обслуживание</h1>
+    </header>
+
+    <section>
+        <h2>Наши Услуги</h2>
+        <p>Мы предоставляем широкий спектр медицинских услуг, включая:</p>
+        <ul>
+            <li>Консультации врачей различных специальностей.</li>
+            <li>Диагностика и лечение различных заболеваний.</li>
+            <li>Срочная медицинская помощь.</li>
+            <li>Реабилитация и физиотерапия.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Наш Коллектив</h2>
+        <p>Наш коллектив врачей и медицинского персонала обеспечивает квалифицированное обслуживание и заботу о вашем здоровье.</p>
+    </section>
+
+    <section>
+        <h2>Контакты</h2>
+        <p>Вы можете связаться с нами по следующему адресу:</p>
+        <address>
+            123 Медицинская улица<br>
+            Город, Страна<br>
+            Телефон: +123 456 789<br>
+            Email: info@medservice.com
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Медицинское Обслуживание</p>
+    </footer>
+</body>
+</html>
