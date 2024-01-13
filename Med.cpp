@@ -33,11 +33,11 @@ public:
 };
 
 int main() {
-    Patient patient("John Doe", 35);
+    Patient patient("Name client", 35);
     MedicalService medicalService;
 
     medicalService.provideCheckup(patient);
-    medicalService.prescribeMedication(patient, "Painkillers");
+    medicalService.prescribeMedication(patient, "Name of pill");
     medicalService.scheduleSurgery(patient, "Appendectomy");
 
     return 0;
